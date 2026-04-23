@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_000000003ce8722fa04507b45eb89183&ts=493599&p=fs&cid=1&sig=d8f8bceaddc1c4572cc0d1eccd406b9f3f074803db47143c4799ab76d671f53e&v=0)" width="95%" />
+</p>
+
 # 📘 README – Perfil del Estudiante
 
 ## 🧾 Información General
